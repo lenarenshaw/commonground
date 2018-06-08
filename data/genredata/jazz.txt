@@ -1,0 +1,100 @@
+1+ Louis Armstrong
+  2+ Duke Ellington
+  3+ Miles Davis
+  4+ Charlie Parker
+  5+ John Coltrane
+  6+ Dizzy Gillespie
+  7+ Billie Holiday
+  8+ Thelonious Monk
+  9+ Charles Mingus
+10+ Count Basie
+11+ Lester Young
+12+ Coleman Hawkins 
+13+ Ella Fitzgerald 
+14+ Sonny Rollins 
+15+ Sidney Bechet 
+16+ Art Blakey 
+17+ Ornette Coleman 
+18+ Benny Goodman 
+19+ Jelly Roll Morton 
+20+ Bill Evans 
+21+ Art Tatum 
+22+ Clifford Brown
+23+ Stan Getz 
+24+ Sarah Vaughan 
+25+ Bud Powell 
+26+ Fletcher Henderson 
+27+ Django Reinhardt 
+28+ Herbie Hancock 
+29+ Wayne Shorter 
+30+ Horace Silver 
+31+ Dave Brubeck 
+32+ Rahsaan Roland Kirk 
+33+ Cecil Taylor 
+34+ King Oliver 
+35+ Sun Ra 
+36+ Gil Evans 
+37+ Lionel Hampton 
+38+ Art Pepper 
+39+ Eric Dolphy 
+40+ Oscar Peterson 
+41+ Charlie Christian 
+42+ Ben Webster 
+43+ Fats Waller 
+44+ Earl Hines 
+45+ Woody Herman 
+46+ Wes Montgomery 
+47+ J.J. Johnson 
+48+ John McLaughlin 
+49+ Artie Shaw 
+50+ Lee Morgan 
+51+ David Murray 
+52+ Chick Corea 
+53+ Max Roach 
+54+ Roy Eldridge 
+55+ Modern Jazz Quartet
+56+ Anthony Braxton 
+57+ Bix Beiderbecke 
+58+ Dexter Gordon 
+59+ Keith Jarrett 
+60+ Lee Konitz 
+61+ Stan Kenton 
+62+ Joe Henderson 
+63+ Gerry Mulligan
+64+ Benny Carter
+65+ Teddy Wilson
+66+ Freddie Hubbard
+67+ Cannonball Adderley
+68+ McCoy Tyner
+69+ Chet Baker
+70+ Lennie Tristano
+71+ Jimmy Smith
+72+ Mary Lou Williams
+73+ George Russell
+74+ Fats Navarro
+75+ Bennie Moten
+76+ Jimmie Lunceford
+77+ Wynton Marsalis
+78+ Albert Ayler
+79+ Charlie Haden
+80+ Erroll Garner
+81+ Meade Lux Lewis
+82+ Pat Metheny
+83+ Jack Teagarden
+84+ Johnny Hodges
+85+ Chick Webb
+86+ James P. Johnson
+87+ Jimmy Giuffre
+88+ Jaco Pastorius
+89+ Hank Mobley
+90+ Elvin Jones
+91+ Evan Parker
+92+ Paul Chambers
+93+ Ron Carter
+94+ Carla Bley
+95+ Bennie Golson
+96+ Jackie McLean
+97+ James Carter
+98+ Donald Byrd
+99+ Johnny Dodds
+100+ Glenn Miller

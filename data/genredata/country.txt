@@ -1,0 +1,100 @@
+1+ Johnny Cash
+  2+ Hank Williams
+  3+ Patsy Cline
+  4+ Dolly Parton
+  5+ The Carter Family
+  6+ George Jones
+  7+ Willie Nelson
+  8+ Loretta Lynn
+  9+ Jimmie Rodgers
+10+ Garth Brooks
+11+ Merle Haggard
+12+ Waylon Jennings
+13+ Bill Monroe
+14+ Tammy Wynette
+15+ Conway Twitty
+16+ Roy Acuff
+17+ Marty Robbins
+18+ Flatt & Scruggs
+19+ Buck Owens
+20+ The Stanley Brothers / Ralph Stanley
+21+ Gene Autry
+22+ Bob Wills
+23+ Chet Atkins
+24+ Hank Snow
+25+ George Strait
+26+ Lefty Frizzell
+27+ Vince Gill
+28+ Ernest Tubb
+29+ Kenny Rogers
+30+ Reba McEntire
+31+ Alison Krauss & Union Station
+32+ Charley Pride
+33+ Eddy Arnold
+34+ Roy Clark
+35+ Alabama
+36+ Randy Travis
+37+ Kitty Wells
+38+ The Judds
+39+ Dwight Yoakam
+40+ Trisha Yearwood
+41+ Alan Jackson
+42+ Tanya Tucker
+43+ Tom T. Hall
+44+ Glen Campbell
+45+ Shania Twain
+46+ The Sons of the Pioneers
+47+ "Tennessee" Ernie Ford
+48+ Patty Loveless
+49+ Charlie Rich
+50+ Slim Whitman
+51+ Brad Paisley
+52+ Jim Reeves
+53+ Faron Young
+54+ The Oak Ridge Boys
+55+ Martina McBride
+56+ Faith Hill
+57+ Porter Wagoner
+58+ June Carter Cash
+59+ Tim McGraw
+60+ Mel Tillis
+61+ Ricky Skaggs
+62+ "Little" Jimmy Dickens
+63+ The Gatlin Brothers
+64+ Connie Smith
+65+ Mary Chapin Carpenter
+66+ Brooks & Dunn
+67+ Jean Shepard
+68+ Toby Keith
+69+ Gillian Welch
+70+ Dixie Chicks
+71+ Hank Williams Jr.
+72+ Cowboy Copas
+73+ Ray Price
+74+ Travis Tritt
+75+ Roger Miller
+76+ Mickey Gilley
+77+ Patsy Montana
+78+ Ronnie Milsap
+79+ Keith Urban
+80+ Kenny Chesney
+81+ Dottie West
+82+ The Statler Brothers
+83+ Clint Black
+84+ Lee Ann Womack
+85+ Bobby Bare
+86+ The Louvin Brothers
+87+ The Blue Sky Boys
+88+ Leann Rimes
+89+ Del McCoury Band
+90+ Rosanne Cash
+91+ Don Gibson
+92+ The Kendalls
+93+ Montgomery Gentry
+94+ Emmylou Harris
+95+ Blake Shelton
+96+ Lynn Anderson
+97+ Diamond Rio
+98+ Jerry Reed
+99+ David Allan Coe
+100+ Boxcar Willie

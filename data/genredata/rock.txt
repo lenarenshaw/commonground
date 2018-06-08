@@ -1,0 +1,100 @@
+1+ The Beatles
+  2+ Elvis Presley
+  3+ James Brown
+  4+ Bob Dylan
+  5+ The Rolling Stones
+  6+ Stevie Wonder
+  7+ Chuck Berry
+  8+ The Who
+  9+ Led Zeppelin
+10+ Ray Charles
+11+ The Beach Boys
+12+ Aretha Franklin
+13+ Fats Domino
+14+ Michael Jackson
+15+ Madonna
+16+ Jimi Hendrix
+17+ Little Richard
+18+ Bruce Springsteen
+19+ Marvin Gaye
+20+ Sam Cooke
+21+ Prince
+22+ U2
+23+ The Supremes
+24+ Pink Floyd
+25+ Elton John
+26+ Run-D.M.C.
+27+ Queen
+28+ Nirvana
+29+ The Temptations
+30+ The Everly Brothers
+31+ David Bowie
+32+ Buddy Holly & The Crickets
+33+ Neil Young
+34+ Bob Marley & the Wailers
+35+ Public Enemy
+36+ Sly & The Family Stone
+37+ Bill Haley & His Comets
+38+ Smokey Robinson & The Miracles
+39+ The Kinks
+40+ R.E.M.
+41+ Bo Diddley
+42+ Black Sabbath
+43+ The Doors
+44+ Jay-Z
+45+ The Clash
+46+ Otis Redding
+47+ The Grateful Dead
+48+ The Byrds
+49+ Van Halen
+50+ The Drifters
+51+ 2pac
+52+ Eminem
+53+ The Beastie Boys
+54+ Roy Orbison
+55+ George Clinton & Parliament/Funkadelic
+56+ Metallica
+57+ Simon & Garfunkel
+58+ The Impressions
+59+ Jerry Lee Lewis
+60+ Eagles
+61+ Joni Mitchell
+62+ Fleetwood Mac
+63+ Creedence Clearwater Revival
+64+ Aerosmith
+65+ Pearl Jam
+66+ The Bee Gees
+67+ The Platters
+68+ The Clovers
+69+ Janet Jackson
+70+ Jackie Wilson
+71+ Ruth Brown
+72+ Donna Summer
+73+ Van Morrison
+74+ Cream
+75+ The Isley Brothers
+76+ The Police
+77+ Al Green
+78+ AC/DC
+79+ Deep Purple
+80+ Radiohead
+81+ Mariah Carey
+82+ Outkast
+83+ Rod Stewart
+84+ The Four Seasons
+85+ The Shirelles
+86+ The Dominoes
+87+ Kanye West
+88+ Elvis Costello
+89+ Crosby, Stills, & Nash (& Young)
+90+ Big Joe Turner
+91+ Johnny Otis
+92+ Whitney Houston
+93+ Guns N' Roses
+94+ N.W.A
+95+ The Allman Brothers Band
+96+ Billy Joel
+97+ Janis Joplin
+98+ The Band
+99+ Sonny Til & the Orioles
+100+ Paul McCartney / Wings
