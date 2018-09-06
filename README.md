@@ -1,34 +1,5 @@
-Approved by Alex!
-
-# cs0320 Term Project 2018
-
-**Team Members:** 
-
-Eric Kong
-
-Kei Kinoshita
-
-Calder Hoover
-
-Lena Renshaw
-
-**Team Strengths and Weaknesses:**
-
-Eric:
-Strengths: Algorithmic programming, mathematics.
-Weaknesses: Frontend UI, backend databases. 
-
-Kei:
-Strengths: Learning new things, understanding algorithms, UI/UX
-Weaknesses: Javascript, time management
-
-Calder:
-Strengths: Learning new things, attention to detail, time management, building big things well.
-Weaknesses: HTML/CSS/JavaScript, using APIs, databases.
-
-Lena:
-Strengths: Data structures/algorithms/thinking through problems. Some experience with frontend HTML/CSS/JavaScript and UI/UX. Avid spotify user.
-Weaknesses: APIs, databases, lots of things in the backend of web development, time management. 
+# CommonSound: cs0320 Term Project 2018
+Created by Lena Renshaw, Calder Hoover, Eric Kong, and Kei Kinoshita
 
 **Project Idea:**
 
@@ -54,23 +25,8 @@ Q: What are the critical features we need to develop? For each feature, why is i
     1. This is an optional feature that we think would be fun to include because it goes along nicely with this project, but it isn’t the focus of our project so it’s not one of our minimum requirements. It would parse through either your spotify friends or your facebook friends with spotify and find people who have similar music tastes as you so you could become friends/share music/go to concerts together.
     2. The two most challenging parts about this feature would be going through all of the friends and collecting data on them and developing some sort of algorithm to determine if a friend is a good match (i.e., maybe you don’t share the same songs but you like the same genres, so that would be a good match, etc).
 
-
-**Mentor TA:** _Put your mentor TA's name and email here once you're assigned one!_
-
-## Meetings
-_On your first meeting with your mentor TA, you should plan dates for at least the following meetings:_
-
-**Specs, Mockup, and Design Meeting:** _(Schedule for on or before March 16)_
-
-**4-Way Checkpoint:** _(Schedule for on or before April 23)_
-
-**Adversary Checkpoint:** _(Schedule once you are assigned an adversary TA)_
-
-## Project Specs, Mockup, and Design (March 16)
+## Project Specs, Mockup, and Design 
 https://drive.google.com/open?id=1Ns5gZFZPMxNkAybjyGo5FxXovt4qpmJX
 This folder has a link to documents associated with our project. The design document and presentation contain specs.
 https://www.figma.com/file/gjQhPRrMR21v2bzr4nS2NSgp/common-ground-mockup
 This figma document has our mockup and low-resolution design, with high resolution images coming soon.
-
-## How to Build and Run
-_A necessary part of any README!_
