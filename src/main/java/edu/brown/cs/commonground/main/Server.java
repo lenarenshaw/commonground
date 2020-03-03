@@ -816,7 +816,7 @@ public final class Server {
     } catch (IOException ioe) {
       System.out.printf("ERROR: Unable use %s for template loading.%n",
           templates);
-      System.exit(1);
+      // System.exit(1);
     }
     return new FreeMarkerEngine(config);
   }
