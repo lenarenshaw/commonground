@@ -1,31 +1,30 @@
-# CommonSound: cs0320 Term Project 2018
+# commonground
 Created by Lena Renshaw, Calder Hoover, Eric Kong, and Kei Kinoshita
+© Brown University, 2018
 
-**Project Idea:**
+## Overview
+Ever hang out with friends and can't decide what music to listen to? No worries, commonground can make that decision for you. Using each users' Spotify data, commonground can, for a group of people, create a playlist that contains songs every member in your group is sure to love. Users can select genre, mood, time of day, playlist length, and percentage of new vs. known songs for a group, and commonground will find the overlap between users' musical interests and generate an appropriate playlist.  
 
-Our project quickly builds playlists that conform to the music taste of many people. Playlists take time to make and often cater to the musical interests of a few dominant players in a group. We use the Spotify data of a group of people and aim to intelligently create a playlist that is cohesive and enjoyable to everyone. 
+## How does it work? 
+![GitHub Logo](/images/logo.png)
 
-Features:
+## Download and run
+For this project, make sure to have [Java (JDK 11+)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) as well as [Maven (V 3.6+)](https://maven.apache.org/install.html) installed. Then, clone this repository, and run the following:
+```
+mvn clean
+mvn package
+./run -gui
+```
+This will run the Graphical User Interface, which you can navigate to in a web browser. We've set up the port at https://localhost:4567/commonground. From here, you can log in with your Spotify, add friends to your groups, and start generating playlists! 
 
-1. Group selection/getting data from each member: select people in the group you want to create the playlist for, and collect their spotify music data. 
-
-    1. This is being included because it is necessary to collect data before performing any analysis/algorithms. 
-    2. It will be challenging to organize the data in a useful way in a database, especially given our group is new to databases. It will also be challenging to utilize the Spotify API to collect data efficiently. A third challenge would be to come up with the appropriate data structure(s) to store the data so that not too much memory is used and querying can be fast. 
-
-2. Generating playlists based on collected data.
-    1. This is being included because it is the core component of our project - creating a playlist that everyone will enjoy.
-    2. The most challenging part of this feature will be coming up with an algorithm that weighs everyone’s preferences equally and effectively chooses songs based on all of the data we have (songs in playlists, number of times played, overlap between friends, etc). This might take a lot of trials to get correctly and possibly some user testing. 
-
-3. Visualization of friends’ music interests:
-    1. This is an optional feature because it might be nice for the user to see how the playlist is being generated via a visualization of some sort. However, it might be too much work on top of automatic playlist generation.
-    2. The most challenging part of this feature would be organizing the data in an efficient way. This would probably require some creative databases work, akin to that required for data collection.
-
-4. Suggesting friends with similar music tastes
-    1. This is an optional feature that we think would be fun to include because it goes along nicely with this project, but it isn’t the focus of our project so it’s not one of our minimum requirements. It would parse through either your spotify friends or your facebook friends with spotify and find people who have similar music tastes as you so you could become friends/share music/go to concerts together.
-    2. The two most challenging parts about this feature would be going through all of the friends and collecting data on them and developing some sort of algorithm to determine if a friend is a good match (i.e., maybe you don’t share the same songs but you like the same genres, so that would be a good match, etc).
+## Fun functionality
+  1. Users can generate playlists just for themselves, which can be great if they are looking for new songs in a particular genre, mood, or just looking to explore. 
+  2. Playlists can be saved to Spotify for future use.
+  3. Playlists can be modified within Spotify to add or remove songs. 
+  4. The output of commonground is always changing to keep up with the new music that you're listening to.
 
 ## Project Specs, Mockup, and Design 
 https://drive.google.com/open?id=1Ns5gZFZPMxNkAybjyGo5FxXovt4qpmJX
 This folder has a link to documents associated with our project. The design document and presentation contain specs.
 https://www.figma.com/file/gjQhPRrMR21v2bzr4nS2NSgp/common-ground-mockup
-This figma document has our mockup and low-resolution design, with high resolution images coming soon.
+This figma document has our mockup and low-resolution design.
