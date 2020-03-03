@@ -1,5 +1,6 @@
 # commonground
 Created by Lena Renshaw, Calder Hoover, Eric Kong, and Kei Kinoshita
+
 © Brown University, 2018
 
 ## Overview
@@ -19,7 +20,7 @@ mvn clean
 mvn package
 ./run -gui
 ```
-This will run the Graphical User Interface, which you can navigate to in a web browser. We've set up the port at https://localhost:4567/commonground. From here, you can log in with your Spotify, add friends to your groups, and start generating playlists! 
+Note: mvn package will run all our tests as well. This will run the Graphical User Interface, which you can navigate to in a web browser. We've set up the port at https://localhost:4567/commonground. From here, you can log in with your Spotify, add friends to your groups, and start generating playlists! 
 
 ## Fun functionality
   1. Users can generate playlists just for themselves, which can be great if they are looking for new songs in a particular genre, mood, or just looking to explore. 
