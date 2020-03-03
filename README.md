@@ -6,7 +6,7 @@ Created by Lena Renshaw, Calder Hoover, Eric Kong, and Kei Kinoshita
 Ever hang out with friends and can't decide what music to listen to? No worries, commonground can make that decision for you. Using each users' Spotify data, commonground can, for a group of people, create a playlist that contains songs every member in your group is sure to love. Users can select genre, mood, time of day, playlist length, and percentage of new vs. known songs for a group, and commonground will find the overlap between users' musical interests and generate an appropriate playlist.  
 
 ## How does it work? 
-![GitHub Logo](commonground.pdf)
+![GitHub Logo](/commonground.pdf)
 
 ## Download and run
 For this project, make sure to have [Java (JDK 11+)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) as well as [Maven (V 3.6+)](https://maven.apache.org/install.html) installed. Then, clone this repository, and run the following:
